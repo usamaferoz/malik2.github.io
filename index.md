@@ -13,3 +13,4 @@ This is my first self made Github website page and i am loving it how the test i
 * Self-control
 * Peacefulness
 > Loving
+<img src="http://kaafps.com/admin/uploads/logo.png"/>
