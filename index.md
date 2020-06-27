@@ -12,3 +12,4 @@ This is my first self made Github website page and i am loving it how the test i
 * Sincerity
 * Self-control
 * Peacefulness
+> Loving
